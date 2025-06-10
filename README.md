@@ -10,7 +10,7 @@ Este é meu **primeiro projeto utilizando o efeito Parallax**, criado como parte
 
 ## 📷 Captura de Tela
 
-*(Insira aqui uma imagem ou GIF do site rodando, se quiser)*
+![Demonstração do Projeto Parallax](/@trevisandev.gif)
 
 ## 🛠️ Tecnologias Utilizadas
 
