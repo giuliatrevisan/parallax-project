@@ -19,5 +19,4 @@ Este é meu **primeiro projeto utilizando o efeito Parallax**, criado como parte
 - JavaScript (scroll event listener)
 - Efeitos Parallax com `style.top`, `style.left`, `style.margin` etc.
 
-## 📁 Estrutura de Arquivos
 
